@@ -2,8 +2,6 @@ import subprocess
 import argparse
 import json
 import re
-import pexpect
-import sys
 from iotlabcli import auth
 
 # Utility function to run shell commands
